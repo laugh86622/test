@@ -4,4 +4,4 @@ import sys
 def main():
     print("Hello World")
     print("This is an evil wrold!")
-    print("This is a good world!")
+    print("This is NOT a good world!")
