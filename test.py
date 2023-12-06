@@ -6,3 +6,5 @@ def main():
     print("This is an evil wrold!")
     print("This is a very good world!") #merge change to very good world
 
+def test():
+    print("This is a test function")
